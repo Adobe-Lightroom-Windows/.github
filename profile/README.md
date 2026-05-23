@@ -27,7 +27,7 @@ Event photographers utilize adobe photoshop lightroom batch processing capabilit
 Archiving specialists configure lightroom classic catalog backups protecting years of photographic work against storage failures. The adobe photoshop lightroom classic database tracks image locations, edit histories, and virtual copies across multiple hard drives. Lightroom windows maintains preview caches enabling rapid browsing without accessing original raw files on offline storage media.
 
 <div align="center">
-  <img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxneokBJ0GAZvX9IDejsY5F8h46e5FD7DO.FGu_m2ZLSQvm.8W9VMU2LbHuetV1Ab.VFXsiSZ00O5On2dyqKDZoI-&format=source" alt="Adobe Lightroom Windows Interface Screenshot"/>
+  <img src="https://www.computer-darkroom.com/lr1_pb_windows/slide-win-1.jpg"/>
 </div>
 
 <div align="center">
